@@ -21,5 +21,3 @@ I am a result-oriented engineer with over 10 years of experience, specializing i
 - **Algorithmic Problem Solving:** Active LeetCode contributor.
 
 ---
-
-![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovmel&show_icons=true&theme=tokyonight)
