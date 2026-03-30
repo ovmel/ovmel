@@ -2,7 +2,7 @@
 
 ### Software Engineer | C++ & Embedded Systems Specialist
 
-I am a result-oriented engineer with over 10 years of experience, specializing in high-performance applications, automotive HMI (BMW, IAV), and complex mathematical modeling. Currently focused on R&D for specialized systems and prediction models.
+I am a result-oriented engineer with over 10 years of experience, specializing in high-performance applications, automotive HMI (BMW), and complex mathematical modeling. Currently focused on R&D for specialized systems and prediction models.
 ---
 
 ### 🛠 Tech Stack & Expertise
