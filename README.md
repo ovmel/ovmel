@@ -10,7 +10,7 @@ I am a result-oriented engineer with over 10 years of experience, specializing i
 - **Languages:** C, C++, C#, Python, SQL
 - **Specialized:** GNSS, Ballistics Modeling, Signal Processing (DMR, LoRa)
 - **Automotive:** MOST, CommonIP, HMI Development, DLT/Trace Analysis
-- **Embedded:** FreeRTOS, ESP32/ESP-IDF, MQTT, RTOS
+- **Embedded:** FreeRTOS, ESP32/ESP-IDF, MQTT, UART, SPI, I2C, RTOS
 - **Tools:** Git, CMake, MS Visual Studio
 
 ---
